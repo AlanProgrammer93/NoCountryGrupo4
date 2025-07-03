@@ -1,0 +1,242 @@
+message_id,channel_id,user_id,text,created_at,user_name,channel_name,longitud_texto,hora_envio,dia_semana,sentimiento,es_pregunta,tiempo_hasta_respuesta,es_cuello_botella,falta_claridad
+M0005,C001,U020,¡Feliz viernes equipo! 🎉,2025-06-18 08:17:49+00:00,Angelino Chacón (Data),general,24,8,2,0.0,False,1418.1666666666667,0,0
+M0017,C001,U009,¿Alguien sabe cuándo es la próxima demo? 🔥,2025-06-19 07:55:59+00:00,Teobaldo Carrasco (Frontend),general,42,7,3,0.0,True,385.1166666666667,1,0
+M0011,C001,U010,Recordatorio: reunión de retrospectiva mañana ✅,2025-06-19 14:21:06+00:00,América Manuel (UX/UI),general,47,14,3,0.0,False,600.8,0,0
+M0013,C001,U005,¡Hola equipo! ¿Cómo van con sus tareas? 💯,2025-06-20 00:21:54+00:00,Ofelia Torrents (DevOps),general,41,0,4,0.0,True,1336.6333333333334,1,0
+M0018,C001,U013,Recordatorio: reunión de retrospectiva mañana,2025-06-20 22:38:32+00:00,Anastasia Batlle (Frontend),general,45,22,4,0.0,False,475.31666666666666,0,0
+M0007,C001,U001,¿Hay algún bloqueador que podamos ayudar a resolver?,2025-06-21 06:33:51+00:00,Rafael Lucas (Backend),general,52,6,5,0.0,True,66.81666666666666,1,0
+M0012,C001,U018,¿Hay algún bloqueador que podamos ayudar a resolver? 🔥,2025-06-21 07:40:40+00:00,Maximiano Lasa (UX/UI),general,54,7,5,0.0,True,2294.3166666666666,1,0
+M0006,C001,U002,Recordatorio: reunión de retrospectiva mañana 👍,2025-06-22 21:54:59+00:00,Araceli Rivero (Frontend),general,47,21,6,0.0,False,872.7333333333333,0,0
+M0008,C001,U017,¡Feliz viernes equipo! 🎉 🚀,2025-06-23 12:27:43+00:00,Bernabé Amo (QA),general,26,12,0,0.0,False,22.05,0,0
+M0002,C001,U010,Buenos días a todos 👋 💯,2025-06-23 12:49:46+00:00,América Manuel (UX/UI),general,23,12,0,0.0,False,1005.7666666666667,0,0
+M0016,C001,U014,¿Hay algún bloqueador que podamos ayudar a resolver?,2025-06-24 05:35:32+00:00,Adelia Agudo (Backend),general,52,5,1,0.0,True,3822.1,1,0
+M0003,C001,U013,¡Hola equipo! ¿Cómo van con sus tareas?,2025-06-26 21:17:38+00:00,Anastasia Batlle (Frontend),general,39,21,3,0.0,True,46.416666666666664,1,0
+M0014,C001,U010,Buenos días a todos 👋 🚀,2025-06-26 22:04:03+00:00,América Manuel (UX/UI),general,23,22,3,0.0,False,878.0833333333334,0,0
+M0004,C001,U004,Buenos días a todos 👋,2025-06-27 12:42:08+00:00,Eugenio Torrent (UX/UI),general,21,12,4,0.0,False,1677.9833333333333,0,0
+M0009,C001,U010,Recordatorio: reunión de retrospectiva mañana 🔥,2025-06-28 16:40:07+00:00,América Manuel (UX/UI),general,47,16,5,0.0,False,48.93333333333333,0,0
+M0001,C001,U015,¿Hay algún bloqueador que podamos ayudar a resolver? 🔥,2025-06-28 17:29:03+00:00,Sofía Lobo (Data),general,54,17,5,0.0,True,474.3333333333333,1,0
+M0010,C001,U009,¡Feliz viernes equipo! 🎉 💯,2025-06-29 01:23:23+00:00,Teobaldo Carrasco (Frontend),general,26,1,6,0.0,False,615.7333333333333,0,0
+M0015,C001,U001,¿Alguien sabe cuándo es la próxima demo?,2025-06-29 11:39:07+00:00,Rafael Lucas (Backend),general,40,11,6,0.0,True,3300.7166666666667,1,0
+M0019,C001,U019,Recordatorio: reunión de retrospectiva mañana,2025-07-01 18:39:50+00:00,Casandra Escamilla (DevOps),general,45,18,1,0.0,False,90.0,0,0
+M0026,C002,U013,El diseño responsive ya está listo,2025-06-17 11:23:42+00:00,Anastasia Batlle (Frontend),frontend-react,34,11,1,0.0,False,27.316666666666666,0,0
+M0036,C002,U002,Estoy teniendo problemas con el state management 👍,2025-06-17 11:51:01+00:00,Araceli Rivero (Frontend),frontend-react,50,11,1,0.0,False,1202.9833333333333,0,0
+M0040,C002,U002,¿Cómo manejan las validaciones de formularios? 💯,2025-06-18 07:54:00+00:00,Araceli Rivero (Frontend),frontend-react,48,7,2,0.0,True,69.36666666666666,1,0
+M0034,C002,U009,¿Alguien ha trabajado con React Query antes?,2025-06-18 09:03:22+00:00,Teobaldo Carrasco (Frontend),frontend-react,44,9,2,0.0,True,1376.7166666666667,1,0
+M0029,C002,U013,¿Qué opinan de usar Zustand vs Redux? 🚀,2025-06-19 08:00:05+00:00,Anastasia Batlle (Frontend),frontend-react,39,8,3,0.0,True,3432.55,1,0
+M0022,C002,U002,Estoy teniendo problemas con el state management ✅,2025-06-21 17:12:38+00:00,Araceli Rivero (Frontend),frontend-react,50,17,5,0.0,False,1147.0666666666666,0,0
+M0038,C002,U002,¿Qué opinan de usar Zustand vs Redux?,2025-06-22 12:19:42+00:00,Araceli Rivero (Frontend),frontend-react,37,12,6,0.0,True,2174.4333333333334,1,0
+M0031,C002,U013,Subí los nuevos componentes al repo ✅,2025-06-24 00:34:08+00:00,Anastasia Batlle (Frontend),frontend-react,37,0,1,0.0,False,752.5333333333333,0,0
+M0025,C002,U009,El diseño responsive ya está listo,2025-06-24 13:06:40+00:00,Teobaldo Carrasco (Frontend),frontend-react,34,13,1,0.0,False,1116.2166666666667,0,0
+M0024,C002,U002,El diseño responsive ya está listo,2025-06-25 07:42:53+00:00,Araceli Rivero (Frontend),frontend-react,34,7,2,0.0,False,401.23333333333335,0,0
+M0030,C002,U009,¿Cómo manejan las validaciones de formularios?,2025-06-25 14:24:07+00:00,Teobaldo Carrasco (Frontend),frontend-react,46,14,2,0.0,True,262.0833333333333,1,0
+M0028,C002,U009,Subí los nuevos componentes al repo 🚀,2025-06-25 18:46:12+00:00,Teobaldo Carrasco (Frontend),frontend-react,37,18,2,0.0,False,964.0666666666667,0,0
+M0037,C002,U009,¿Alguien ha trabajado con React Query antes?,2025-06-26 10:50:16+00:00,Teobaldo Carrasco (Frontend),frontend-react,44,10,3,0.0,True,1367.7166666666667,1,0
+M0020,C002,U013,¿Cómo manejan las validaciones de formularios?,2025-06-27 09:37:59+00:00,Anastasia Batlle (Frontend),frontend-react,46,9,4,0.0,True,315.6666666666667,1,0
+M0033,C002,U013,Subí los nuevos componentes al repo,2025-06-27 14:53:39+00:00,Anastasia Batlle (Frontend),frontend-react,35,14,4,0.0,False,855.9666666666667,0,0
+M0035,C002,U013,El diseño responsive ya está listo,2025-06-28 05:09:37+00:00,Anastasia Batlle (Frontend),frontend-react,34,5,5,0.0,False,313.26666666666665,0,0
+M0039,C002,U013,Subí los nuevos componentes al repo 💯,2025-06-28 10:22:53+00:00,Anastasia Batlle (Frontend),frontend-react,37,10,5,0.0,False,79.2,0,0
+M0032,C002,U013,El diseño responsive ya está listo 💯,2025-06-28 11:42:05+00:00,Anastasia Batlle (Frontend),frontend-react,36,11,5,0.0,False,273.1333333333333,0,0
+M0023,C002,U009,¿Alguien ha trabajado con React Query antes? 💯,2025-06-28 16:15:13+00:00,Teobaldo Carrasco (Frontend),frontend-react,46,16,5,0.0,True,4051.6,1,0
+M0027,C002,U013,Encontré un bug en el componente de navegación 👍,2025-07-01 11:46:49+00:00,Anastasia Batlle (Frontend),frontend-react,48,11,1,0.0,False,464.98333333333335,0,0
+M0021,C002,U002,Estoy teniendo problemas con el state management,2025-07-01 19:31:48+00:00,Araceli Rivero (Frontend),frontend-react,48,19,1,0.0,False,90.0,0,0
+M0058,C003,U014,Deployé la nueva versión al staging 🚀,2025-06-19 05:00:22+00:00,Adelia Agudo (Backend),backend-python,37,5,3,0.0,False,42.93333333333333,0,0
+M0053,C003,U012,Deployé la nueva versión al staging,2025-06-19 05:43:18+00:00,Salomé Expósito (DevOps),backend-python,35,5,3,0.0,False,1275.0,0,0
+M0060,C003,U014,Implementé la paginación en los endpoints,2025-06-20 02:58:18+00:00,Adelia Agudo (Backend),backend-python,41,2,4,0.0,False,570.4333333333333,0,0
+M0056,C003,U005,Los tests unitarios están al 90% 🔥,2025-06-20 12:28:44+00:00,Ofelia Torrents (DevOps),backend-python,34,12,4,0.0,False,1455.9333333333334,0,0
+M0041,C003,U001,Deployé la nueva versión al staging,2025-06-21 12:44:40+00:00,Rafael Lucas (Backend),backend-python,35,12,5,0.0,False,445.1333333333333,0,0
+M0057,C003,U016,Deployé la nueva versión al staging,2025-06-21 20:09:48+00:00,Clara Canet (Backend),backend-python,35,20,5,0.0,False,407.7,0,0
+M0059,C003,U008,Deployé la nueva versión al staging,2025-06-22 02:57:30+00:00,Abril Serra (Backend),backend-python,35,2,6,0.0,False,853.35,0,0
+M0052,C003,U003,Tenemos que optimizar las consultas a la BD,2025-06-22 17:10:51+00:00,Ezequiel Serna (Backend),backend-python,43,17,6,0.0,False,178.01666666666668,0,0
+M0047,C003,U001,Tenemos que optimizar las consultas a la BD 🔥,2025-06-22 20:08:52+00:00,Rafael Lucas (Backend),backend-python,45,20,6,0.0,False,1993.7666666666667,0,0
+M0063,C003,U005,Los tests unitarios están al 90% 👍,2025-06-24 05:22:38+00:00,Ofelia Torrents (DevOps),backend-python,34,5,1,0.0,False,527.3166666666667,0,0
+M0043,C003,U014,Tenemos que optimizar las consultas a la BD,2025-06-24 14:09:57+00:00,Adelia Agudo (Backend),backend-python,43,14,1,0.0,False,358.4166666666667,0,0
+M0062,C003,U003,Tenemos que optimizar las consultas a la BD,2025-06-24 20:08:22+00:00,Ezequiel Serna (Backend),backend-python,43,20,1,0.0,False,64.41666666666667,0,0
+M0049,C003,U020,Los tests unitarios están al 90%,2025-06-24 21:12:47+00:00,Angelino Chacón (Data),backend-python,32,21,1,0.0,False,1391.4833333333333,0,0
+M0050,C003,U008,Tenemos que optimizar las consultas a la BD 🔥,2025-06-25 20:24:16+00:00,Abril Serra (Backend),backend-python,45,20,2,0.0,False,10.833333333333334,0,0
+M0055,C003,U019,¿Alguien puede revisar mi PR de autenticación?,2025-06-25 20:35:06+00:00,Casandra Escamilla (DevOps),backend-python,46,20,2,0.0,True,925.5666666666667,1,0
+M0048,C003,U005,Implementé la paginación en los endpoints,2025-06-26 12:00:40+00:00,Ofelia Torrents (DevOps),backend-python,41,12,3,0.0,False,1319.7,0,0
+M0044,C003,U008,Implementé la paginación en los endpoints,2025-06-27 10:00:22+00:00,Abril Serra (Backend),backend-python,41,10,4,0.0,False,1993.2,0,0
+M0046,C003,U012,Deployé la nueva versión al staging ✅,2025-06-28 19:13:34+00:00,Salomé Expósito (DevOps),backend-python,37,19,5,0.0,False,257.53333333333336,0,0
+M0061,C003,U016,¿Alguien puede revisar mi PR de autenticación? 🚀,2025-06-28 23:31:06+00:00,Clara Canet (Backend),backend-python,48,23,5,0.0,True,30.383333333333333,1,0
+M0051,C003,U020,Tenemos que optimizar las consultas a la BD,2025-06-29 00:01:29+00:00,Angelino Chacón (Data),backend-python,43,0,6,0.0,False,300.56666666666666,0,0
+M0045,C003,U003,¿Usamos FastAPI o Django para este proyecto?,2025-06-29 05:02:03+00:00,Ezequiel Serna (Backend),backend-python,44,5,6,0.0,True,2109.3,1,0
+M0064,C003,U016,La API de usuarios ya está funcionando,2025-06-30 16:11:21+00:00,Clara Canet (Backend),backend-python,38,16,0,0.0,False,626.2,0,0
+M0042,C003,U006,Implementé la paginación en los endpoints ✅,2025-07-01 02:37:33+00:00,Remedios Cortés (Data),backend-python,43,2,1,0.0,False,1225.4333333333334,0,0
+M0054,C003,U012,¿Usamos FastAPI o Django para este proyecto? 👍,2025-07-01 23:02:59+00:00,Salomé Expósito (DevOps),backend-python,46,23,1,0.0,True,90.0,1,0
+M0081,C004,U010,El flow de onboarding necesita ajustes,2025-06-17 18:42:51+00:00,América Manuel (UX/UI),ux-ui-design,38,18,1,0.0,False,360.78333333333336,0,0
+M0073,C004,U010,Subí los wireframes nuevos a Figma,2025-06-18 00:43:38+00:00,América Manuel (UX/UI),ux-ui-design,34,0,2,0.0,False,62.68333333333333,0,0
+M0077,C004,U018,El flow de onboarding necesita ajustes,2025-06-18 01:46:19+00:00,Maximiano Lasa (UX/UI),ux-ui-design,38,1,2,0.0,False,607.8,0,0
+M0072,C004,U004,El prototipo interactivo está listo,2025-06-18 11:54:07+00:00,Eugenio Torrent (UX/UI),ux-ui-design,35,11,2,0.0,False,810.25,0,0
+M0075,C004,U010,¿Qué opinan de esta paleta de colores?,2025-06-19 01:24:22+00:00,América Manuel (UX/UI),ux-ui-design,38,1,3,0.0,True,228.45,1,0
+M0067,C004,U018,¿Hacemos testing de usabilidad esta semana? ✅,2025-06-19 05:12:49+00:00,Maximiano Lasa (UX/UI),ux-ui-design,45,5,3,0.0,True,1360.95,1,0
+M0070,C004,U010,El flow de onboarding necesita ajustes,2025-06-20 03:53:46+00:00,América Manuel (UX/UI),ux-ui-design,38,3,4,0.0,False,653.8333333333334,0,0
+M0068,C004,U004,El prototipo interactivo está listo,2025-06-20 14:47:36+00:00,Eugenio Torrent (UX/UI),ux-ui-design,35,14,4,0.0,False,1012.05,0,0
+M0076,C004,U018,Actualicé el design system 🚀,2025-06-21 07:39:39+00:00,Maximiano Lasa (UX/UI),ux-ui-design,28,7,5,0.0,False,1725.2166666666667,0,0
+M0078,C004,U018,¿Les gusta más la versión A o B?,2025-06-22 12:24:52+00:00,Maximiano Lasa (UX/UI),ux-ui-design,32,12,6,0.0,True,69.15,1,0
+M0079,C004,U010,¿Hacemos testing de usabilidad esta semana?,2025-06-22 13:34:01+00:00,América Manuel (UX/UI),ux-ui-design,43,13,6,0.0,True,1198.8333333333333,1,0
+M0080,C004,U010,Subí los wireframes nuevos a Figma,2025-06-23 09:32:51+00:00,América Manuel (UX/UI),ux-ui-design,34,9,0,0.0,False,762.0333333333333,0,0
+M0069,C004,U004,¿Hacemos testing de usabilidad esta semana?,2025-06-23 22:14:53+00:00,Eugenio Torrent (UX/UI),ux-ui-design,43,22,0,0.0,True,658.05,1,0
+M0085,C004,U010,¿Les gusta más la versión A o B?,2025-06-24 09:12:56+00:00,América Manuel (UX/UI),ux-ui-design,32,9,1,0.0,True,82.41666666666667,1,0
+M0082,C004,U018,¿Hacemos testing de usabilidad esta semana?,2025-06-24 10:35:21+00:00,Maximiano Lasa (UX/UI),ux-ui-design,43,10,1,0.0,True,1701.1166666666666,1,0
+M0071,C004,U018,El flow de onboarding necesita ajustes,2025-06-25 14:56:28+00:00,Maximiano Lasa (UX/UI),ux-ui-design,38,14,2,0.0,False,555.4,0,0
+M0084,C004,U010,Subí los wireframes nuevos a Figma,2025-06-26 00:11:52+00:00,América Manuel (UX/UI),ux-ui-design,34,0,3,0.0,False,2929.616666666667,0,0
+M0065,C004,U018,El flow de onboarding necesita ajustes,2025-06-28 01:01:29+00:00,Maximiano Lasa (UX/UI),ux-ui-design,38,1,5,0.0,False,2770.15,0,0
+M0066,C004,U018,El prototipo interactivo está listo,2025-06-29 23:11:38+00:00,Maximiano Lasa (UX/UI),ux-ui-design,35,23,6,0.0,False,334.81666666666666,0,0
+M0074,C004,U004,Actualicé el design system ✅,2025-06-30 04:46:27+00:00,Eugenio Torrent (UX/UI),ux-ui-design,28,4,0,0.0,False,1643.7166666666667,0,0
+M0083,C004,U018,El flow de onboarding necesita ajustes,2025-07-01 08:10:10+00:00,Maximiano Lasa (UX/UI),ux-ui-design,38,8,1,0.0,False,90.0,0,0
+M0109,C005,U017,Automaticé las pruebas de la API,2025-06-18 08:50:25+00:00,Bernabé Amo (QA),qa-testing,32,8,2,0.0,False,522.0166666666667,0,0
+M0100,C005,U017,El reporte de bugs de esta semana,2025-06-18 17:32:26+00:00,Bernabé Amo (QA),qa-testing,33,17,2,0.0,False,148.38333333333333,0,0
+M0108,C005,U007,Los test cases están actualizados 🚀,2025-06-18 20:00:49+00:00,Leyre Marín (QA),qa-testing,35,20,2,0.0,False,208.35,0,0
+M0105,C005,U007,¿Cuándo podemos hacer la regresión completa? 💯,2025-06-18 23:29:10+00:00,Leyre Marín (QA),qa-testing,46,23,2,0.0,True,200.98333333333332,1,0
+M0086,C005,U017,El reporte de bugs de esta semana,2025-06-19 02:50:09+00:00,Bernabé Amo (QA),qa-testing,33,2,3,0.0,False,89.41666666666667,0,0
+M0090,C005,U007,¿Necesitan ayuda con alguna funcionalidad?,2025-06-19 04:19:34+00:00,Leyre Marín (QA),qa-testing,42,4,3,0.0,True,803.65,1,0
+M0087,C005,U007,Performance testing completado,2025-06-19 17:43:13+00:00,Leyre Marín (QA),qa-testing,30,17,3,0.0,False,261.8,0,0
+M0106,C005,U017,Performance testing completado 👍,2025-06-19 22:05:01+00:00,Bernabé Amo (QA),qa-testing,32,22,3,0.0,False,993.4833333333333,0,0
+M0110,C005,U017,Los test cases están actualizados,2025-06-20 14:38:30+00:00,Bernabé Amo (QA),qa-testing,33,14,4,0.0,False,85.48333333333333,0,0
+M0103,C005,U017,El reporte de bugs de esta semana,2025-06-20 16:03:59+00:00,Bernabé Amo (QA),qa-testing,33,16,4,0.0,False,768.2166666666667,0,0
+M0094,C005,U017,Automaticé las pruebas de la API 💯,2025-06-21 04:52:12+00:00,Bernabé Amo (QA),qa-testing,34,4,5,0.0,False,2629.75,0,0
+M0111,C005,U017,¿Necesitan ayuda con alguna funcionalidad?,2025-06-23 00:41:57+00:00,Bernabé Amo (QA),qa-testing,42,0,0,0.0,True,53.06666666666667,1,0
+M0091,C005,U017,¿Necesitan ayuda con alguna funcionalidad?,2025-06-23 01:35:01+00:00,Bernabé Amo (QA),qa-testing,42,1,0,0.0,True,939.55,1,0
+M0092,C005,U017,Performance testing completado,2025-06-23 17:14:34+00:00,Bernabé Amo (QA),qa-testing,30,17,0,0.0,False,478.15,0,0
+M0102,C005,U007,¿Necesitan ayuda con alguna funcionalidad?,2025-06-24 01:12:43+00:00,Leyre Marín (QA),qa-testing,42,1,1,0.0,True,952.55,1,0
+M0107,C005,U017,¿Necesitan ayuda con alguna funcionalidad?,2025-06-24 17:05:16+00:00,Bernabé Amo (QA),qa-testing,42,17,1,0.0,True,331.15,1,0
+M0089,C005,U007,¿Necesitan ayuda con alguna funcionalidad? ✅,2025-06-24 22:36:25+00:00,Leyre Marín (QA),qa-testing,44,22,1,0.0,True,1509.8833333333334,1,0
+M0096,C005,U007,Encontré varios bugs en la funcionalidad de login 🔥,2025-06-25 23:46:18+00:00,Leyre Marín (QA),qa-testing,51,23,2,0.0,False,1729.35,0,0
+M0088,C005,U017,¿Necesitan ayuda con alguna funcionalidad?,2025-06-27 04:35:39+00:00,Bernabé Amo (QA),qa-testing,42,4,4,0.0,True,2219.633333333333,1,0
+M0112,C005,U007,Automaticé las pruebas de la API,2025-06-28 17:35:17+00:00,Leyre Marín (QA),qa-testing,32,17,5,0.0,False,1008.45,0,0
+M0097,C005,U017,Performance testing completado,2025-06-29 10:23:44+00:00,Bernabé Amo (QA),qa-testing,30,10,6,0.0,False,269.23333333333335,0,0
+M0095,C005,U017,¿Necesitan ayuda con alguna funcionalidad? ✅,2025-06-29 14:52:58+00:00,Bernabé Amo (QA),qa-testing,44,14,6,0.0,True,363.51666666666665,1,0
+M0098,C005,U007,Los test cases están actualizados,2025-06-29 20:56:29+00:00,Leyre Marín (QA),qa-testing,33,20,6,0.0,False,893.9666666666667,0,0
+M0099,C005,U017,¿Necesitan ayuda con alguna funcionalidad? 🚀,2025-06-30 11:50:27+00:00,Bernabé Amo (QA),qa-testing,44,11,0,0.0,True,123.83333333333333,1,0
+M0101,C005,U017,Performance testing completado,2025-06-30 13:54:17+00:00,Bernabé Amo (QA),qa-testing,30,13,0,0.0,False,526.4166666666666,0,0
+M0104,C005,U007,Automaticé las pruebas de la API 💯,2025-06-30 22:40:42+00:00,Leyre Marín (QA),qa-testing,34,22,0,0.0,False,128.3,0,0
+M0093,C005,U007,El reporte de bugs de esta semana,2025-07-01 00:49:00+00:00,Leyre Marín (QA),qa-testing,33,0,1,0.0,False,90.0,0,0
+M0136,C006,U018,🍕 ¿Pedimos pizza para el equipo?,2025-06-17 12:15:41+00:00,Maximiano Lasa (UX/UI),random,32,12,1,0.0,True,644.25,1,0
+M0117,C006,U004,¿Café virtual a las 3? 🔥,2025-06-17 22:59:56+00:00,Eugenio Torrent (UX/UI),random,24,22,1,0.0,True,251.53333333333333,1,0
+M0114,C006,U013,🍕 ¿Pedimos pizza para el equipo?,2025-06-18 03:11:28+00:00,Anastasia Batlle (Frontend),random,32,3,2,0.0,True,1818.7833333333333,1,0
+M0123,C006,U010,¿Café virtual a las 3?,2025-06-19 09:30:15+00:00,América Manuel (UX/UI),random,22,9,3,0.0,True,1098.3,1,0
+M0134,C006,U011,Motivación del día: ¡Vamos que podemos! 💪,2025-06-20 03:48:33+00:00,Tere Borrás (PM),random,41,3,4,0.0,False,58.166666666666664,0,0
+M0121,C006,U004,Compartiendo un artículo interesante sobre tech,2025-06-20 04:46:43+00:00,Eugenio Torrent (UX/UI),random,47,4,4,0.0,False,225.9,0,0
+M0125,C006,U015,🍕 ¿Pedimos pizza para el equipo? 👍,2025-06-20 08:32:37+00:00,Sofía Lobo (Data),random,34,8,4,0.0,True,203.48333333333332,1,0
+M0138,C006,U011,¡Feliz cumpleaños a nuestro PM! 🎂,2025-06-20 11:56:06+00:00,Tere Borrás (PM),random,33,11,4,0.0,False,1088.7,0,0
+M0120,C006,U014,¡Feliz cumpleaños a nuestro PM! 🎂,2025-06-21 06:04:48+00:00,Adelia Agudo (Backend),random,33,6,5,0.0,False,1201.15,0,0
+M0128,C006,U002,¿Qué planes tienen para el fin de semana? 🚀,2025-06-22 02:05:57+00:00,Araceli Rivero (Frontend),random,43,2,6,0.0,True,256.15,1,0
+M0113,C006,U002,Motivación del día: ¡Vamos que podemos! 💪 🚀,2025-06-22 06:22:06+00:00,Araceli Rivero (Frontend),random,43,6,6,0.0,False,574.5,0,0
+M0129,C006,U003,¿Café virtual a las 3?,2025-06-22 15:56:36+00:00,Ezequiel Serna (Backend),random,22,15,6,0.0,True,1055.0833333333333,1,0
+M0130,C006,U010,¿Alguien vio la nueva serie de Netflix? 🔥,2025-06-23 09:31:41+00:00,América Manuel (UX/UI),random,41,9,0,0.0,True,513.3333333333334,1,0
+M0135,C006,U017,¡Feliz cumpleaños a nuestro PM! 🎂,2025-06-23 18:05:01+00:00,Bernabé Amo (QA),random,33,18,0,0.0,False,396.98333333333335,0,0
+M0122,C006,U007,Compartiendo un artículo interesante sobre tech,2025-06-24 00:42:00+00:00,Leyre Marín (QA),random,47,0,1,0.0,False,240.26666666666668,0,0
+M0116,C006,U013,¡Feliz cumpleaños a nuestro PM! 🎂 🚀,2025-06-24 04:42:16+00:00,Anastasia Batlle (Frontend),random,35,4,1,0.0,False,1395.3,0,0
+M0131,C006,U017,🍕 ¿Pedimos pizza para el equipo? 👍,2025-06-25 03:57:34+00:00,Bernabé Amo (QA),random,34,3,2,0.0,True,1376.2666666666667,1,0
+M0127,C006,U011,¿Café virtual a las 3?,2025-06-26 02:53:50+00:00,Tere Borrás (PM),random,22,2,3,0.0,True,398.93333333333334,1,0
+M0118,C006,U010,Compartiendo un artículo interesante sobre tech ✅,2025-06-26 09:32:46+00:00,América Manuel (UX/UI),random,49,9,3,0.0,False,1057.6666666666667,0,0
+M0133,C006,U007,🍕 ¿Pedimos pizza para el equipo? 🔥,2025-06-27 03:10:26+00:00,Leyre Marín (QA),random,34,3,4,0.0,True,1869.2833333333333,1,0
+M0119,C006,U015,¡Feliz cumpleaños a nuestro PM! 🎂 💯,2025-06-28 10:19:43+00:00,Sofía Lobo (Data),random,35,10,5,0.0,False,110.46666666666667,0,0
+M0139,C006,U013,¿Alguien vio la nueva serie de Netflix?,2025-06-28 12:10:11+00:00,Anastasia Batlle (Frontend),random,39,12,5,0.0,True,842.7333333333333,1,0
+M0124,C006,U003,¿Qué planes tienen para el fin de semana?,2025-06-29 02:12:55+00:00,Ezequiel Serna (Backend),random,41,2,6,0.0,True,1642.95,1,0
+M0126,C006,U003,Motivación del día: ¡Vamos que podemos! 💪,2025-06-30 05:35:52+00:00,Ezequiel Serna (Backend),random,41,5,0,0.0,False,1336.1833333333334,0,0
+M0115,C006,U008,¿Café virtual a las 3? 🚀,2025-07-01 03:52:03+00:00,Abril Serra (Backend),random,24,3,1,0.0,True,79.98333333333333,1,0
+M0137,C006,U003,¿Qué planes tienen para el fin de semana? 👍,2025-07-01 05:12:02+00:00,Ezequiel Serna (Backend),random,43,5,1,0.0,True,1792.6,1,0
+M0132,C006,U015,Compartiendo un artículo interesante sobre tech,2025-07-02 11:04:38+00:00,Sofía Lobo (Data),random,47,11,2,0.0,False,90.0,0,0
+M0148,C007,U011,Sprint Review completado exitosamente 💯,2025-06-17 11:38:51+00:00,Tere Borrás (PM),project-updates,39,11,1,0.0,False,1943.6333333333334,0,0
+M0142,C007,U005,Métricas del proyecto: todo en verde 💯,2025-06-18 20:02:29+00:00,Ofelia Torrents (DevOps),project-updates,38,20,2,0.0,False,381.4,0,0
+M0140,C007,U015,Siguiente milestone: MVP ready ✅,2025-06-19 02:23:53+00:00,Sofía Lobo (Data),project-updates,32,2,3,0.2,False,1408.5,0,0
+M0161,C007,U016,Métricas del proyecto: todo en verde 💯,2025-06-20 01:52:23+00:00,Clara Canet (Backend),project-updates,38,1,4,0.0,False,113.1,0,0
+M0149,C007,U015,Entregables de esta semana listos,2025-06-20 03:45:29+00:00,Sofía Lobo (Data),project-updates,33,3,4,0.0,False,476.15,0,0
+M0152,C007,U019,Entregables de esta semana listos 👍,2025-06-20 11:41:38+00:00,Casandra Escamilla (DevOps),project-updates,35,11,4,0.0,False,2298.5333333333333,0,0
+M0146,C007,U015,Métricas del proyecto: todo en verde,2025-06-22 02:00:10+00:00,Sofía Lobo (Data),project-updates,36,2,6,0.0,False,515.2833333333333,0,0
+M0141,C007,U006,Burndown chart actualizado,2025-06-22 10:35:27+00:00,Remedios Cortés (Data),project-updates,26,10,6,0.0,False,1531.7833333333333,0,0
+M0164,C007,U002,Siguiente milestone: MVP ready,2025-06-23 12:07:14+00:00,Araceli Rivero (Frontend),project-updates,30,12,0,0.2,False,105.53333333333333,0,0
+M0147,C007,U018,Siguiente milestone: MVP ready 🔥,2025-06-23 13:52:46+00:00,Maximiano Lasa (UX/UI),project-updates,32,13,0,0.2,False,120.05,0,0
+M0150,C007,U002,Demo con stakeholders programada,2025-06-23 15:52:49+00:00,Araceli Rivero (Frontend),project-updates,32,15,0,0.0,False,1911.1,0,0
+M0158,C007,U010,Entregables de esta semana listos,2025-06-24 23:43:55+00:00,América Manuel (UX/UI),project-updates,33,23,1,0.0,False,1014.7666666666667,0,0
+M0159,C007,U019,Sprint Review completado exitosamente,2025-06-25 16:38:41+00:00,Casandra Escamilla (DevOps),project-updates,37,16,2,0.0,False,290.21666666666664,0,0
+M0143,C007,U019,Sprint Review completado exitosamente,2025-06-25 21:28:54+00:00,Casandra Escamilla (DevOps),project-updates,37,21,2,0.0,False,933.85,0,0
+M0163,C007,U006,Demo con stakeholders programada,2025-06-26 13:02:45+00:00,Remedios Cortés (Data),project-updates,32,13,3,0.0,False,29.983333333333334,0,0
+M0155,C007,U014,Siguiente milestone: MVP ready,2025-06-26 13:32:44+00:00,Adelia Agudo (Backend),project-updates,30,13,3,0.2,False,209.2,0,0
+M0145,C007,U007,Siguiente milestone: MVP ready,2025-06-26 17:01:56+00:00,Leyre Marín (QA),project-updates,30,17,3,0.2,False,505.26666666666665,0,0
+M0160,C007,U006,Burndown chart actualizado 💯,2025-06-27 01:27:12+00:00,Remedios Cortés (Data),project-updates,28,1,4,0.0,False,84.11666666666666,0,0
+M0154,C007,U013,Métricas del proyecto: todo en verde,2025-06-27 02:51:19+00:00,Anastasia Batlle (Frontend),project-updates,36,2,4,0.0,False,24.066666666666666,0,0
+M0165,C007,U003,Métricas del proyecto: todo en verde,2025-06-27 03:15:23+00:00,Ezequiel Serna (Backend),project-updates,36,3,4,0.0,False,732.1666666666666,0,0
+M0157,C007,U020,Roadmap actualizado para Q2,2025-06-27 15:27:33+00:00,Angelino Chacón (Data),project-updates,27,15,4,0.0,False,1344.3,0,0
+M0156,C007,U004,Roadmap actualizado para Q2,2025-06-28 13:51:51+00:00,Eugenio Torrent (UX/UI),project-updates,27,13,5,0.0,False,1399.5,0,0
+M0162,C007,U017,Burndown chart actualizado,2025-06-29 13:11:21+00:00,Bernabé Amo (QA),project-updates,26,13,6,0.0,False,7.8,0,0
+M0153,C007,U012,Sprint Review completado exitosamente 💯,2025-06-29 13:19:09+00:00,Salomé Expósito (DevOps),project-updates,39,13,6,0.0,False,247.81666666666666,0,0
+M0151,C007,U016,Métricas del proyecto: todo en verde 💯,2025-06-29 17:26:58+00:00,Clara Canet (Backend),project-updates,38,17,6,0.0,False,3228.4666666666667,0,0
+M0144,C007,U017,Entregables de esta semana listos,2025-07-01 23:15:26+00:00,Bernabé Amo (QA),project-updates,33,23,1,0.0,False,90.0,0,0
+M0172,C008,U013,Tutorial de Git para principiantes,2025-06-17 23:54:04+00:00,Anastasia Batlle (Frontend),help-support,34,23,1,0.0,False,212.68333333333334,0,0
+M0180,C008,U019,Documentación actualizada en el wiki,2025-06-18 03:26:45+00:00,Casandra Escamilla (DevOps),help-support,36,3,2,0.0,False,507.3666666666667,0,0
+M0175,C008,U013,Ayuda con error de CORS en la API 🔥,2025-06-18 11:54:07+00:00,Anastasia Batlle (Frontend),help-support,35,11,2,0.0,False,655.7833333333333,0,0
+M0178,C008,U017,FAQ de errores comunes 🚀,2025-06-18 22:49:54+00:00,Bernabé Amo (QA),help-support,24,22,2,0.0,False,2487.883333333333,0,0
+M0188,C008,U003,¿Alguien sabe cómo configurar Docker?,2025-06-20 16:17:47+00:00,Ezequiel Serna (Backend),help-support,37,16,4,0.0,True,344.78333333333336,1,0
+M0171,C008,U008,¿Alguien sabe cómo configurar Docker?,2025-06-20 22:02:34+00:00,Abril Serra (Backend),help-support,37,22,4,0.0,True,572.9833333333333,1,0
+M0170,C008,U002,¿Alguien sabe cómo configurar Docker?,2025-06-21 07:35:33+00:00,Araceli Rivero (Frontend),help-support,37,7,5,0.0,True,92.18333333333334,1,0
+M0169,C008,U002,Ayuda con error de CORS en la API 🚀,2025-06-21 09:07:44+00:00,Araceli Rivero (Frontend),help-support,35,9,5,0.0,False,302.3666666666667,0,0
+M0184,C008,U012,FAQ de errores comunes,2025-06-21 14:10:06+00:00,Salomé Expósito (DevOps),help-support,22,14,5,0.0,False,2291.1666666666665,0,0
+M0185,C008,U001,¿Cómo conecto la base de datos local?,2025-06-23 04:21:16+00:00,Rafael Lucas (Backend),help-support,37,4,0,-0.4,True,137.48333333333332,1,0
+M0187,C008,U017,Tutorial de Git para principiantes,2025-06-23 06:38:45+00:00,Bernabé Amo (QA),help-support,34,6,0,0.0,False,1020.35,0,0
+M0183,C008,U019,FAQ de errores comunes,2025-06-23 23:39:06+00:00,Casandra Escamilla (DevOps),help-support,22,23,0,0.0,False,1062.7166666666667,0,0
+M0189,C008,U002,Solucionado: era un problema de permisos,2025-06-24 17:21:49+00:00,Araceli Rivero (Frontend),help-support,40,17,1,0.0,False,16.633333333333333,0,0
+M0167,C008,U007,Ayuda con error de CORS en la API,2025-06-24 17:38:27+00:00,Leyre Marín (QA),help-support,33,17,1,0.0,False,2999.4166666666665,0,0
+M0182,C008,U014,Tutorial de Git para principiantes,2025-06-26 19:37:52+00:00,Adelia Agudo (Backend),help-support,34,19,3,0.0,False,120.3,0,0
+M0179,C008,U002,Ayuda con error de CORS en la API,2025-06-26 21:38:10+00:00,Araceli Rivero (Frontend),help-support,33,21,3,0.0,False,10.7,0,0
+M0177,C008,U009,Ayuda con error de CORS en la API,2025-06-26 21:48:52+00:00,Teobaldo Carrasco (Frontend),help-support,33,21,3,0.0,False,496.01666666666665,0,0
+M0173,C008,U012,Solucionado: era un problema de permisos 🔥,2025-06-27 06:04:53+00:00,Salomé Expósito (DevOps),help-support,42,6,4,0.0,False,1397.25,0,0
+M0174,C008,U017,¿Cómo conecto la base de datos local?,2025-06-28 05:22:08+00:00,Bernabé Amo (QA),help-support,37,5,5,-0.4,True,424.71666666666664,1,0
+M0166,C008,U008,FAQ de errores comunes 👍,2025-06-28 12:26:51+00:00,Abril Serra (Backend),help-support,24,12,5,0.0,False,59.166666666666664,0,0
+M0176,C008,U007,¿Alguien sabe cómo configurar Docker?,2025-06-28 13:26:01+00:00,Leyre Marín (QA),help-support,37,13,5,0.0,True,930.0,1,0
+M0168,C008,U001,¿Alguien sabe cómo configurar Docker?,2025-06-29 04:56:01+00:00,Rafael Lucas (Backend),help-support,37,4,6,0.0,True,2331.116666666667,1,0
+M0181,C008,U016,Ayuda con error de CORS en la API 🔥,2025-06-30 19:47:08+00:00,Clara Canet (Backend),help-support,35,19,0,0.0,False,1885.75,0,0
+M0186,C008,U002,Documentación actualizada en el wiki,2025-07-02 03:12:53+00:00,Araceli Rivero (Frontend),help-support,36,3,2,0.0,False,90.0,0,0
+M0192,C009,U018,Cheat sheet de Git comandos 🔥,2025-06-17 18:47:31+00:00,Maximiano Lasa (UX/UI),recursos,29,18,1,0.0,False,1833.95,0,0
+M0196,C009,U015,Artículo sobre mejores prácticas de Python,2025-06-19 01:21:28+00:00,Sofía Lobo (Data),recursos,42,1,3,0.0,False,690.15,0,0
+M0205,C009,U015,Libro recomendado: Clean Code,2025-06-19 12:51:37+00:00,Sofía Lobo (Data),recursos,29,12,3,0.3666666666666667,False,644.7666666666667,0,0
+M0199,C009,U006,Artículo sobre mejores prácticas de Python,2025-06-19 23:36:23+00:00,Remedios Cortés (Data),recursos,42,23,3,0.0,False,535.2166666666667,0,0
+M0210,C009,U018,Libro recomendado: Clean Code,2025-06-20 08:31:36+00:00,Maximiano Lasa (UX/UI),recursos,29,8,4,0.3666666666666667,False,3037.266666666667,0,0
+M0200,C009,U006,Libro recomendado: Clean Code,2025-06-22 11:08:52+00:00,Remedios Cortés (Data),recursos,29,11,6,0.3666666666666667,False,90.86666666666666,0,0
+M0198,C009,U020,Curso gratuito de React en Coursera,2025-06-22 12:39:44+00:00,Angelino Chacón (Data),recursos,35,12,6,0.0,False,649.6333333333333,0,0
+M0214,C009,U020,Curso gratuito de React en Coursera,2025-06-22 23:29:22+00:00,Angelino Chacón (Data),recursos,35,23,6,0.0,False,2384.85,0,0
+M0209,C009,U018,Webinar sobre microservicios mañana,2025-06-24 15:14:13+00:00,Maximiano Lasa (UX/UI),recursos,35,15,1,0.0,False,1709.3166666666666,0,0
+M0193,C009,U018,Curso gratuito de React en Coursera,2025-06-25 19:43:32+00:00,Maximiano Lasa (UX/UI),recursos,35,19,2,0.0,False,453.75,0,0
+M0191,C009,U018,Cheat sheet de Git comandos,2025-06-26 03:17:17+00:00,Maximiano Lasa (UX/UI),recursos,27,3,3,0.0,False,909.3666666666667,0,0
+M0197,C009,U004,Webinar sobre microservicios mañana,2025-06-26 18:26:39+00:00,Eugenio Torrent (UX/UI),recursos,35,18,3,0.0,False,1301.1166666666666,0,0
+M0213,C009,U015,Libro recomendado: Clean Code,2025-06-27 16:07:46+00:00,Sofía Lobo (Data),recursos,29,16,4,0.3666666666666667,False,1075.1166666666666,0,0
+M0212,C009,U010,Cheat sheet de Git comandos ✅,2025-06-28 10:02:53+00:00,América Manuel (UX/UI),recursos,29,10,5,0.0,False,398.18333333333334,0,0
+M0202,C009,U015,Cheat sheet de Git comandos,2025-06-28 16:41:04+00:00,Sofía Lobo (Data),recursos,27,16,5,0.0,False,1183.4,0,0
+M0204,C009,U010,Libro recomendado: Clean Code 💯,2025-06-29 12:24:28+00:00,América Manuel (UX/UI),recursos,31,12,6,0.3666666666666667,False,552.45,0,0
+M0203,C009,U004,Template de documentación técnica,2025-06-29 21:36:55+00:00,Eugenio Torrent (UX/UI),recursos,33,21,6,0.0,False,135.66666666666666,0,0
+M0208,C009,U015,Libro recomendado: Clean Code,2025-06-29 23:52:35+00:00,Sofía Lobo (Data),recursos,29,23,6,0.3666666666666667,False,279.9,0,0
+M0201,C009,U015,Cheat sheet de Git comandos 💯,2025-06-30 04:32:29+00:00,Sofía Lobo (Data),recursos,29,4,0,0.0,False,494.68333333333334,0,0
+M0194,C009,U010,Herramienta útil para testing de APIs,2025-06-30 12:47:10+00:00,América Manuel (UX/UI),recursos,37,12,0,0.0,False,482.3666666666667,0,0
+M0190,C009,U015,Template de documentación técnica,2025-06-30 20:49:32+00:00,Sofía Lobo (Data),recursos,33,20,0,0.0,False,233.68333333333334,0,0
+M0195,C009,U006,Template de documentación técnica,2025-07-01 00:43:13+00:00,Remedios Cortés (Data),recursos,33,0,1,0.0,False,266.8,0,0
+M0206,C009,U006,Template de documentación técnica 👍,2025-07-01 05:10:01+00:00,Remedios Cortés (Data),recursos,35,5,1,0.0,False,276.6666666666667,0,0
+M0211,C009,U010,Libro recomendado: Clean Code,2025-07-01 09:46:41+00:00,América Manuel (UX/UI),recursos,29,9,1,0.3666666666666667,False,708.0833333333334,0,0
+M0207,C009,U020,Webinar sobre microservicios mañana,2025-07-01 21:34:46+00:00,Angelino Chacón (Data),recursos,35,21,1,0.0,False,90.0,0,0
+M0236,C010,U011,Hoy me enfoco en los tests unitarios,2025-06-18 00:47:42+00:00,Tere Borrás (PM),daily-standup,36,0,2,0.0,False,324.01666666666665,0,0
+M0225,C010,U011,Completé las tareas del sprint,2025-06-18 06:11:43+00:00,Tere Borrás (PM),daily-standup,30,6,2,0.0,False,691.0166666666667,0,0
+M0229,C010,U011,Yesterday: Implementé autenticación,2025-06-18 17:42:44+00:00,Tere Borrás (PM),daily-standup,35,17,2,0.0,False,489.6666666666667,0,0
+M0226,C010,U011,Today: Voy a trabajar en la API de productos 👍,2025-06-19 01:52:24+00:00,Tere Borrás (PM),daily-standup,46,1,3,0.0,False,867.4833333333333,0,0
+M0227,C010,U011,Plan de hoy: refactoring del componente principal 👍,2025-06-19 16:19:53+00:00,Tere Borrás (PM),daily-standup,51,16,3,0.0,False,2493.1666666666665,0,0
+M0215,C010,U011,Completé las tareas del sprint,2025-06-21 09:53:03+00:00,Tere Borrás (PM),daily-standup,30,9,5,0.0,False,708.4,0,0
+M0230,C010,U011,Ayer solucioné el bug de performance 👍,2025-06-21 21:41:27+00:00,Tere Borrás (PM),daily-standup,38,21,5,0.0,False,316.23333333333335,0,0
+M0235,C010,U011,Blockers: Esperando review del PR #123 👍,2025-06-22 02:57:41+00:00,Tere Borrás (PM),daily-standup,40,2,6,0.0,False,390.1666666666667,0,0
+M0219,C010,U011,Ayer solucioné el bug de performance,2025-06-22 09:27:51+00:00,Tere Borrás (PM),daily-standup,36,9,6,0.0,False,159.95,0,0
+M0216,C010,U011,Hoy me enfoco en los tests unitarios,2025-06-22 12:07:48+00:00,Tere Borrás (PM),daily-standup,36,12,6,0.0,False,283.75,0,0
+M0223,C010,U011,Ayer solucioné el bug de performance,2025-06-22 16:51:33+00:00,Tere Borrás (PM),daily-standup,36,16,6,0.0,False,3800.2833333333333,0,0
+M0224,C010,U011,Blockers: Esperando review del PR #123,2025-06-25 08:11:50+00:00,Tere Borrás (PM),daily-standup,38,8,2,0.0,False,324.03333333333336,0,0
+M0239,C010,U011,Yesterday: Implementé autenticación 💯,2025-06-25 13:35:52+00:00,Tere Borrás (PM),daily-standup,37,13,2,0.0,False,134.8,0,0
+M0234,C010,U011,Blockers: Esperando review del PR #123,2025-06-25 15:50:40+00:00,Tere Borrás (PM),daily-standup,38,15,2,0.0,False,425.98333333333335,0,0
+M0240,C010,U011,Plan de hoy: refactoring del componente principal,2025-06-25 22:56:39+00:00,Tere Borrás (PM),daily-standup,49,22,2,0.0,False,398.18333333333334,0,0
+M0228,C010,U011,Blockers: Esperando review del PR #123 💯,2025-06-26 05:34:50+00:00,Tere Borrás (PM),daily-standup,40,5,3,0.0,False,145.71666666666667,0,0
+M0241,C010,U011,Today: Voy a trabajar en la API de productos 🔥,2025-06-26 08:00:33+00:00,Tere Borrás (PM),daily-standup,46,8,3,0.0,False,2413.6666666666665,0,0
+M0233,C010,U011,Hoy me enfoco en los tests unitarios,2025-06-28 00:14:13+00:00,Tere Borrás (PM),daily-standup,36,0,5,0.0,False,1381.1,0,0
+M0220,C010,U011,Completé las tareas del sprint,2025-06-28 23:15:19+00:00,Tere Borrás (PM),daily-standup,30,23,5,0.0,False,749.9666666666667,0,0
+M0231,C010,U011,Ayer solucioné el bug de performance,2025-06-29 11:45:17+00:00,Tere Borrás (PM),daily-standup,36,11,6,0.0,False,803.4833333333333,0,0
+M0218,C010,U011,Plan de hoy: refactoring del componente principal 🚀,2025-06-30 01:08:46+00:00,Tere Borrás (PM),daily-standup,51,1,0,0.0,False,612.5333333333333,0,0
+M0232,C010,U011,Hoy me enfoco en los tests unitarios,2025-06-30 11:21:18+00:00,Tere Borrás (PM),daily-standup,36,11,0,0.0,False,755.0333333333333,0,0
+M0222,C010,U011,Ayer solucioné el bug de performance,2025-06-30 23:56:20+00:00,Tere Borrás (PM),daily-standup,36,23,0,0.0,False,308.4,0,0
+M0217,C010,U011,Completé las tareas del sprint,2025-07-01 05:04:44+00:00,Tere Borrás (PM),daily-standup,30,5,1,0.0,False,1009.2333333333333,0,0
+M0237,C010,U011,Yesterday: Implementé autenticación 👍,2025-07-01 21:53:58+00:00,Tere Borrás (PM),daily-standup,37,21,1,0.0,False,5.1,0,0
+M0221,C010,U011,Today: Voy a trabajar en la API de productos,2025-07-01 21:59:04+00:00,Tere Borrás (PM),daily-standup,44,21,1,0.0,False,338.05,0,0
+M0238,C010,U011,Blockers: Esperando review del PR #123 🔥,2025-07-02 03:37:07+00:00,Tere Borrás (PM),daily-standup,40,3,2,0.0,False,90.0,0,0
